@@ -9,10 +9,9 @@ Then, the Dynamic Conditional Correlation GARCH (DCC-GARCH) is used to measure t
 
 Finally, the Diebold-Yilmaz Spillover Index is used for measuring risk transmissions between markets, ie the spillover dynamics.
 
-**Data Sources**
+**Data**
 - S&P500 Index - Yahoo Finance
 - WTI Oil Prices - FRED
 - Geopolitical Risk Index (GPR) -
-- Trade Policy Uncertainty Index (TPU)-
-- Climate Policy Uncertainty Index (CPU) -
-- World Uncertainty Index (WUI) - 
+- Trade Policy Uncertainty Index (TWAR)-
+- Environmental Shock (ENV) -
